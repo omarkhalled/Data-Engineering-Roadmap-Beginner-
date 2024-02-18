@@ -17,7 +17,7 @@ https://youtu.be/9akc6GQJmvc?si=-HZZsCmQa6ze-uiN
 
 2. **Study Resources:**
    - **Playlist:** Check out this comprehensive YouTube playlist: [Data Engineering and DWH Playlist](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
-   - **Book:** Dive into the "Data Warehouse Toolkit" by Kimball, a foundational resource in data warehousing.  chapter 2 and any 2 chapters from 16
+   - **Book:** Dive into the "Data Warehouse Toolkit" by Kimball, a foundational resource in data warehousing.  chapter 2 and any 2 chapters from 3 to 16
 
 3. **Learn SSIS:**
    - **Tool:**  A powerful ETL tool widely used in data engineering projects.
