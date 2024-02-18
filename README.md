@@ -12,7 +12,7 @@ Data engineering is the development, implementation, and maintenance of systems 
 ----
 1. **Understand Data Engineering:** Start by gaining a solid understanding of data engineering. Research what data engineering entails and its significance in modern business environments.
 
-(https://youtu.be/9akc6GQJmvc?si=-HZZsCmQa6ze-uiN)
+https://youtu.be/9akc6GQJmvc?si=-HZZsCmQa6ze-uiN
 
 
 2. **Study Resources:**
